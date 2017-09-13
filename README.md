@@ -1,2 +1,2 @@
-# testrepo
-SMU Doing Data Science 6306 - Test Repo 
+# stat6306introdatascience
+Files and projects for Stat 6306 Introduction to Data Science
